@@ -1,5 +1,8 @@
 # Unix-Timestamp Transform For Instagram
 
+[![Build Status](https://travis-ci.org/neighborhood999/unix-timestamp-transform.svg?branch=master)](https://travis-ci.org/neighborhood999/unix-timestamp-transform)
+[![Coverage Status](https://coveralls.io/repos/github/neighborhood999/unix-timestamp-transform/badge.svg?branch=master)](https://coveralls.io/github/neighborhood999/unix-timestamp-transform?branch=master)
+
 This is just for tranform instagram timestamp use.
 
 ### Usage

@@ -1,6 +1,6 @@
 {
   "name": "unix-timestamp-transform",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "tranform instagram unix-timestamp",
   "main": "index.js",
   "ava:": {
@@ -14,7 +14,8 @@
   },
   "author": {
     "name": "Peng Jie",
-    "email": "dean.leehom@gmail.com"
+    "email": "dean.leehom@gmail.com",
+    "url": "https://github.com/neighborhood999/unix-timestamp-transform"
   },
   "keywords": [
     "unix-timestamp"
