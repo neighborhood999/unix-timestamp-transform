@@ -32,7 +32,7 @@ function daysBetween(time) {
     case time > 30 && time <= 365:
       return `${diffMonth} months ago`;
     default:
-      return true;
+      return 'Please input days.';
   }
 }
 

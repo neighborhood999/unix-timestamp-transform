@@ -26,7 +26,9 @@ test('should get between timestamp and now days', t => {
 });
 
 test('should get the number of days difference', t => {
+  t.is(transform.daysBetween(), 'Please input days.');
   t.is(transform.daysBetween(1), 'a day ago');
   t.is(transform.daysBetween(25), '25 days ago');
   t.is(transform.daysBetween(30), '1 month ago');
+  t.is(transform.daysBetween(360), '12 months ago');
 });
